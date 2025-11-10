@@ -1,5 +1,6 @@
 #include <QApplication>
-#include <QWidget>   // 你的 QWidget 類別（例如由 Qt Designer 產生）
+#include <QWidget>
+#include <midtermai.h>
 
 int main(int argc, char *argv[])
 {
