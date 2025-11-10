@@ -5,7 +5,8 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    MidTermAI w;
-    w.show();
+    MidTermAI w1,w2;
+    w1.show();
+    w2.show();
     return a.exec();
 }
