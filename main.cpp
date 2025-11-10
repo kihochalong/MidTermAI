@@ -19,5 +19,7 @@ int main(int argc, char *argv[])
     w2.move(x + width + 20, y);
     w2.show();
 
+    MidTermAI w3;
+    w3.show();
     return a.exec();
 }
